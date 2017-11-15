@@ -15,4 +15,8 @@ function PickupLocation(address, city) {
   this.city = city;
 }
 
+<<<<<<< HEAD
 let newPickUp = new PickupLocation('123 Broadway', 'New York City')
+=======
+let newPickUp = new PickupLocation('123 Broadway', 'New York City')
+>>>>>>> cb4ec93a3bd9caf678a72e0c71978a0afb88948b
